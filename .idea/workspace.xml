@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa968a3c-1f0c-4e84-a463-67aa1213d33b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298636066/1298636066_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298636066/1298636066_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298636066/1298636066_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298636066/1298636066_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298636066/1298636066_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298636292/1298636292_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298636292/1298636292_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298636292/1298636292_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298636292/1298636292_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298636292/1298636292_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298636374/1298636374_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298636374/1298636374_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298636374/1298636374_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298636374/1298636374_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298636374/1298636374_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298636799/1298636799_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298636799/1298636799_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298636799/1298636799_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298636799/1298636799_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298636799/1298636799_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298636824/1298636824_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298636824/1298636824_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298636824/1298636824_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298636824/1298636824_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298636824/1298636824_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298637113/1298637113_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298637113/1298637113_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298637113/1298637113_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298637113/1298637113_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298637113/1298637113_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298638087/1298638087_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298638087/1298638087_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298638087/1298638087_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298638087/1298638087_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298638087/1298638087_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298638329/1298638329_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298638329/1298638329_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298638329/1298638329_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298638329/1298638329_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298638329/1298638329_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298639452/1298639452_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298639452/1298639452_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298639452/1298639452_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298639452/1298639452_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298639452/1298639452_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298639501/1298639501_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298639501/1298639501_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298639501/1298639501_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298639501/1298639501_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298639501/1298639501_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298639895/1298639895_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298639895/1298639895_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298639895/1298639895_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298639895/1298639895_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298639895/1298639895_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298639967/1298639967_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298639967/1298639967_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298639967/1298639967_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298639967/1298639967_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298639967/1298639967_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298640189/1298640189_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298640189/1298640189_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298640189/1298640189_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298640189/1298640189_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298640189/1298640189_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298640657/1298640657_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298640657/1298640657_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298640657/1298640657_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298640657/1298640657_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298640657/1298640657_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298641573/1298641573_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298641573/1298641573_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298641573/1298641573_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298641573/1298641573_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298641573/1298641573_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298642564/1298642564_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298642564/1298642564_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298642564/1298642564_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298642564/1298642564_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298642564/1298642564_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298643578/1298643578_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298643578/1298643578_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298643578/1298643578_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298643578/1298643578_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298643578/1298643578_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298646185/1298646185_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298646185/1298646185_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298646185/1298646185_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298646185/1298646185_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298646185/1298646185_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298646491/1298646491_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298646491/1298646491_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298646491/1298646491_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298646491/1298646491_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298646491/1298646491_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298647737/1298647737_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298647737/1298647737_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298647737/1298647737_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298647737/1298647737_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298647737/1298647737_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298648564/1298648564_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298648564/1298648564_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298648564/1298648564_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298648564/1298648564_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298648564/1298648564_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298648926/1298648926_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298648926/1298648926_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298648926/1298648926_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298648926/1298648926_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298648926/1298648926_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298650036/1298650036_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298650036/1298650036_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298650036/1298650036_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298650036/1298650036_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298650036/1298650036_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298650464/1298650464_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298650464/1298650464_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298650464/1298650464_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298650464/1298650464_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298650464/1298650464_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298651951/1298651951_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298651951/1298651951_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298651951/1298651951_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298651951/1298651951_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298651951/1298651951_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298652406/1298652406_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298652406/1298652406_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298652406/1298652406_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298652406/1298652406_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298652406/1298652406_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298652546/1298652546_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298652546/1298652546_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298652546/1298652546_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298652546/1298652546_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298652546/1298652546_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298653986/1298653986_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298653986/1298653986_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298653986/1298653986_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298653986/1298653986_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298653986/1298653986_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298654047/1298654047_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298654047/1298654047_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298654047/1298654047_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298654047/1298654047_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298654047/1298654047_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298655090/1298655090_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298655090/1298655090_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298655090/1298655090_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298655090/1298655090_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298655090/1298655090_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298656831/1298656831_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298656831/1298656831_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298656831/1298656831_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298656831/1298656831_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298656831/1298656831_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298657060/1298657060_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298657060/1298657060_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298657060/1298657060_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298657060/1298657060_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298657060/1298657060_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298657538/1298657538_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298657538/1298657538_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298657538/1298657538_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298657538/1298657538_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298657538/1298657538_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298660054/1298660054_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298660054/1298660054_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298660054/1298660054_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298660054/1298660054_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298660054/1298660054_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298664051/1298664051_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298664051/1298664051_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298664051/1298664051_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298664051/1298664051_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298664051/1298664051_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298677452/1298677452_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298677452/1298677452_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298677452/1298677452_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298677452/1298677452_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298677452/1298677452_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298679251/1298679251_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298679251/1298679251_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298679251/1298679251_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298679251/1298679251_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298679251/1298679251_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298679621/1298679621_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298679621/1298679621_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298679621/1298679621_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298679621/1298679621_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298679621/1298679621_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298686005/1298686005_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298686005/1298686005_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298686005/1298686005_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298686005/1298686005_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298686005/1298686005_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298687820/1298687820_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298687820/1298687820_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298687820/1298687820_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298687820/1298687820_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298687820/1298687820_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298688108/1298688108_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298688108/1298688108_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298688108/1298688108_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298688108/1298688108_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298688108/1298688108_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298688589/1298688589_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298688589/1298688589_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298688589/1298688589_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298688589/1298688589_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298688589/1298688589_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298688598/1298688598_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298688598/1298688598_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298688598/1298688598_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298688598/1298688598_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298688598/1298688598_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298697715/1298697715_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298697715/1298697715_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298697715/1298697715_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298697715/1298697715_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298697715/1298697715_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298698007/1298698007_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298698007/1298698007_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298698007/1298698007_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298698007/1298698007_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298698007/1298698007_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298699068/1298699068_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298699068/1298699068_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298699068/1298699068_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298699068/1298699068_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298699068/1298699068_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298701752/1298701752_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298701752/1298701752_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298701752/1298701752_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298701752/1298701752_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298701752/1298701752_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298702043/1298702043_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298702043/1298702043_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298702043/1298702043_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298702043/1298702043_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298702043/1298702043_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298703832/1298703832_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298703832/1298703832_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298703832/1298703832_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298703832/1298703832_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298703832/1298703832_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298703922/1298703922_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298703922/1298703922_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298703922/1298703922_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298703922/1298703922_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298703922/1298703922_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298704821/1298704821_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298704821/1298704821_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298704821/1298704821_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298704821/1298704821_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1298704821/1298704821_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298715401/1298715401_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298715401/1298715401_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298715401/1298715401_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298715401/1298715401_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298715401/1298715401_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298715643/1298715643_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298715643/1298715643_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298715643/1298715643_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298715643/1298715643_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1298715643/1298715643_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299841470/1299841470_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299841470/1299841470_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299841470/1299841470_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299841470/1299841470_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299841470/1299841470_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299842139/1299842139_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299842139/1299842139_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299842139/1299842139_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299842139/1299842139_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299842139/1299842139_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299842184/1299842184_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299842184/1299842184_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299842184/1299842184_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299842184/1299842184_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299842184/1299842184_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299842825/1299842825_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299842825/1299842825_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299842825/1299842825_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299842825/1299842825_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299842825/1299842825_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299842992/1299842992_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299842992/1299842992_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299842992/1299842992_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299842992/1299842992_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299842992/1299842992_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299843445/1299843445_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299843445/1299843445_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299843445/1299843445_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299843445/1299843445_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299843445/1299843445_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299847043/1299847043_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299847043/1299847043_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299847043/1299847043_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299847043/1299847043_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299847043/1299847043_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299847593/1299847593_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299847593/1299847593_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299847593/1299847593_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299847593/1299847593_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299847593/1299847593_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299847776/1299847776_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299847776/1299847776_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299847776/1299847776_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299847776/1299847776_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299847776/1299847776_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299848258/1299848258_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299848258/1299848258_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299848258/1299848258_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299848258/1299848258_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299848258/1299848258_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1299853628/1299853628_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1299853628/1299853628_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1299853628/1299853628_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1299853628/1299853628_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1299853628/1299853628_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299854474/1299854474_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299854474/1299854474_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299854474/1299854474_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299854474/1299854474_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299854474/1299854474_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299854877/1299854877_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299854877/1299854877_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299854877/1299854877_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299854877/1299854877_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299854877/1299854877_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299854888/1299854888_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299854888/1299854888_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299854888/1299854888_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299854888/1299854888_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299854888/1299854888_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299855182/1299855182_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299855182/1299855182_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299855182/1299855182_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299855182/1299855182_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299855182/1299855182_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299855427/1299855427_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299855427/1299855427_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299855427/1299855427_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299855427/1299855427_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299855427/1299855427_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299855908/1299855908_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299855908/1299855908_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299855908/1299855908_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299855908/1299855908_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299855908/1299855908_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299856503/1299856503_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299856503/1299856503_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299856503/1299856503_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299856503/1299856503_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299856503/1299856503_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299864160/1299864160_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299864160/1299864160_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299864160/1299864160_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299864160/1299864160_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299864160/1299864160_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299864975/1299864975_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299864975/1299864975_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299864975/1299864975_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299864975/1299864975_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299864975/1299864975_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299868017/1299868017_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299868017/1299868017_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299868017/1299868017_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299868017/1299868017_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299868017/1299868017_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299869636/1299869636_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299869636/1299869636_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299869636/1299869636_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299869636/1299869636_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299869636/1299869636_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299870542/1299870542_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299870542/1299870542_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299870542/1299870542_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299870542/1299870542_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299870542/1299870542_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1299872875/1299872875_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1299872875/1299872875_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1299872875/1299872875_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1299872875/1299872875_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/male_audio/M_1299872875/1299872875_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299897023/1299897023_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299897023/1299897023_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299897023/1299897023_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299897023/1299897023_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299897023/1299897023_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299903751/1299903751_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299903751/1299903751_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299903751/1299903751_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299903751/1299903751_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299903751/1299903751_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299904623/1299904623_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299904623/1299904623_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299904623/1299904623_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299904623/1299904623_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299904623/1299904623_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299907796/1299907796_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299907796/1299907796_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299907796/1299907796_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299907796/1299907796_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299907796/1299907796_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299911447/1299911447_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299911447/1299911447_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299911447/1299911447_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299911447/1299911447_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299911447/1299911447_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299918796/1299918796_1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299918796/1299918796_2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299918796/1299918796_3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299918796/1299918796_4.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/female_audio/F_1299918796/1299918796_5.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_speech_features" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitmodules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Changxu.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio_data/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/SpeakerRecognition.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feature_extractor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loader.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="SpeakerRecognition.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SpeakerRecognition$loader.coverage" NAME="loader Coverage Results" MODIFIED="1437921973504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SpeakerRecognition$features_extractor.coverage" NAME="features_extractor Coverage Results" MODIFIED="1437923758222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="SpeakerRecognition" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="loader.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/loader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+              <folding>
+                <element signature="e#47#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="feature_extractor.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/feature_extractor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.625">
+              <caret line="20" column="104" selection-start-line="20" selection-start-column="104" selection-end-line="20" selection-end-column="104" />
+              <folding>
+                <element signature="e#47#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/postprocess.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/features_extractor.py" />
+        <option value="$PROJECT_DIR$/loader.py" />
+        <option value="$PROJECT_DIR$/feature_extractor.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpeakerRecognition" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpeakerRecognition" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpeakerRecognition" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="configurable.group.appearance" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RunManager" selected="Python.features_extractor">
+    <configuration default="false" name="loader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SpeakerRecognition" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="features_extractor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SpeakerRecognition" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/feature_extractor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SpeakerRecognition" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SpeakerRecognition" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SpeakerRecognition" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SpeakerRecognition" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SpeakerRecognition" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SpeakerRecognition" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SpeakerRecognition" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SpeakerRecognition" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SpeakerRecognition" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.loader" />
+      <item index="1" class="java.lang.String" itemvalue="Python.features_extractor" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.features_extractor" />
+        <item index="1" class="java.lang.String" itemvalue="Python.loader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa968a3c-1f0c-4e84-a463-67aa1213d33b" name="Default" comment="" />
+      <created>1437921151897</created>
+      <option name="number" value="Default" />
+      <updated>1437921151897</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <element signature="e#47#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_extractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+          <folding>
+            <element signature="e#47#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_extractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.625">
+          <caret line="20" column="104" selection-start-line="20" selection-start-column="104" selection-end-line="20" selection-end-column="104" />
+          <folding>
+            <element signature="e#47#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
