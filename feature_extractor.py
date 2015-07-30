@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 
 import numpy
-from features import mfcc, logfbank
+from features import mfcc, fbank
 
 def extract_features(datasets):
     def get_features(sample):
@@ -18,9 +18,10 @@ def extract_features(datasets):
         mfcc_diff_feats = diff(mfcc_feats)
         mfcc_diff2_feats = diff(mfcc_diff_feats)
 
-        logfbank_feat = logfbank(sig, rate)
+        _, energy_feat = fbank(sig, rate)
+        log_energy_feat = numpy.log(energy_feat).reshape(energy_feat.shape[0],1)
 
-        return numpy.concatenate((mfcc_feats, mfcc_diff_feats, mfcc_diff2_feats, logfbank_feat), axis=1)[2:-2]
+        return numpy.concatenate((mfcc_feats, mfcc_diff_feats, mfcc_diff2_feats, log_energy_feat), axis=1)[2:-2]
 
     new_datasets = []
     for dataset in datasets:
@@ -30,7 +31,9 @@ def extract_features(datasets):
 
 if __name__ == '__main__':
     from loader import load_data
-    datasets = load_data()
+    datasets, n_classes = load_data()
 
-    features = extract_features(datasets)
+    new_datasets = extract_features(datasets)
+    for data in new_datasets[0][0]:
+        print data.shape
 
